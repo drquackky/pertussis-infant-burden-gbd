@@ -1,4 +1,4 @@
-# Pertussis Burden in Infants Under 1 Year Using Data from Global Burden of Disease 2023
+# Pertussis Burden in Infants Under 1 Year Using Data from Global Burden of Disease
 
 ## Project Overview
 
