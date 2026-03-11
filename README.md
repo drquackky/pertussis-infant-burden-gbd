@@ -51,33 +51,33 @@ https://ghdx.healthdata.org/record/gbd-2023-socio-demographic-index-sdi
 
 This analysis focuses on the following questions:
 
-### 1. How does pertussis burden vary across countries and development levels?
+#### **1. How does pertussis burden vary across countries and development levels?**
 - How do incidence, mortality, and DALY rates differ between countries?
 - How does pertussis burden vary across SDI groups?
 
 **Statistical analysis:**  
-Differences in pertussis burden rates were analyzed using the non-parametric test **Kruskal–Wallis test** because the data is not normally distributed.  
-When significant differences were identified, **Dunn’s post hoc test** was applied for pairwise comparisons, with **FDR adjustment** used to account for multiple testing.
+- Differences in pertussis burden rates were analyzed using the non-parametric test **Kruskal–Wallis test** because the data is not normally distributed.    
+- When significant differences were identified, **Dunn’s post hoc test** was applied for pairwise comparisons, with **FDR adjustment** used to account for multiple testing.
 
-### 2. Is pertussis burden associated with socio-demographic development?
+#### **2. Is pertussis burden associated with socio-demographic development?**
 - Is there a positive or negative relationship between SDI and pertussis incidence, mortality, or DALY rates?
 
 **Statistical analysis:**  
-The relationship between **SDI** and pertussis burden indicators was examined using **linear regression analysis**.
+- The relationship between **SDI** and pertussis burden indicators was examined using **linear regression analysis**.
 
-### 3. How has pertussis burden changed over time?
+#### **3. How has pertussis burden changed over time?**
 - Have incidence, mortality, and DALY rates increased or decreased from 1990 to 2023?
 - Are there significant turning points in the trends?
 
 **Statistical analysis:**  
-Temporal patterns in incidence, mortality, and DALY rates were first explored through **descriptive trend analysis**.  
-**Joinpoint regression** was then used to identify statistically significant changes in trend over time.
+- Temporal patterns in incidence, mortality, and DALY rates were first explored through **descriptive trend analysis**.   
+- **Joinpoint regression** was then used to identify statistically significant changes in trend over time.
 
-### 4. Did the COVID-19 period coincide with changes in pertussis trends?
+#### **4. Did the COVID-19 period coincide with changes in pertussis trends?**
 - Were there noticeable disruptions or shifts during the pandemic and post-pandemic years?
 
 **Statistical analysis:**  
-Potential changes during the COVID-19 and post-pandemic period were interpreted from the **descriptive trend results** and **joinpoint regression outputs**.
+- Potential changes during the COVID-19 and post-pandemic period were interpreted from the **descriptive trend results** and **joinpoint regression outputs**.
 
 
 ---
